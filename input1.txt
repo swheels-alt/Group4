@@ -1,0 +1,702 @@
+CITIES
+City0
+City1
+City2
+City3
+City4
+City5
+City6
+City7
+City8
+City9
+City10
+City11
+City12
+City13
+City14
+City15
+City16
+City17
+City18
+City19
+City20
+City21
+City22
+City23
+City24
+City25
+City26
+City27
+City28
+City29
+City30
+City31
+City32
+City33
+City34
+City35
+City36
+City37
+City38
+City39
+City40
+City41
+City42
+City43
+City44
+City45
+City46
+City47
+City48
+City49
+City50
+City51
+City52
+City53
+City54
+City55
+City56
+City57
+City58
+City59
+City60
+City61
+City62
+City63
+City64
+City65
+City66
+City67
+City68
+City69
+City70
+City71
+City72
+City73
+City74
+City75
+City76
+City77
+City78
+City79
+City80
+City81
+City82
+City83
+City84
+City85
+City86
+City87
+City88
+City89
+City90
+City91
+City92
+City93
+City94
+City95
+City96
+City97
+City98
+City99
+ROADS
+City0 City1 5
+City1 City2 4
+City2 City3 10
+City3 City4 1
+City4 City5 1
+City5 City6 9
+City6 City7 9
+City7 City8 9
+City8 City9 8
+City9 City10 1
+City10 City11 7
+City11 City12 2
+City12 City13 1
+City13 City14 8
+City14 City15 2
+City15 City16 1
+City16 City17 7
+City17 City18 4
+City18 City19 9
+City19 City20 9
+City20 City21 4
+City21 City22 2
+City22 City23 3
+City23 City24 2
+City24 City25 9
+City25 City26 4
+City26 City27 10
+City27 City28 8
+City28 City29 3
+City29 City30 4
+City30 City31 3
+City31 City32 6
+City32 City33 9
+City33 City34 9
+City34 City35 8
+City35 City36 8
+City36 City37 3
+City37 City38 9
+City38 City39 6
+City39 City40 8
+City40 City41 7
+City41 City42 9
+City42 City43 3
+City43 City44 4
+City44 City45 9
+City45 City46 1
+City46 City47 1
+City47 City48 7
+City48 City49 7
+City49 City50 5
+City50 City51 1
+City51 City52 10
+City52 City53 7
+City53 City54 10
+City54 City55 4
+City55 City56 8
+City56 City57 9
+City57 City58 2
+City58 City59 8
+City59 City60 2
+City60 City61 1
+City61 City62 4
+City62 City63 4
+City63 City64 5
+City64 City65 1
+City65 City66 1
+City66 City67 7
+City67 City68 1
+City68 City69 9
+City69 City70 5
+City70 City71 3
+City71 City72 1
+City72 City73 6
+City73 City74 1
+City74 City75 7
+City75 City76 8
+City76 City77 10
+City77 City78 4
+City78 City79 1
+City79 City80 6
+City80 City81 5
+City81 City82 4
+City82 City83 8
+City83 City84 4
+City84 City85 5
+City85 City86 1
+City86 City87 9
+City87 City88 3
+City88 City89 5
+City89 City90 9
+City90 City91 2
+City91 City92 6
+City92 City93 3
+City93 City94 5
+City94 City95 1
+City95 City96 8
+City96 City97 10
+City97 City98 6
+City98 City99 1
+City0 City62 2
+City58 City53 15
+City73 City77 4
+City41 City72 8
+City39 City98 3
+City75 City56 19
+City99 City42 15
+City55 City64 11
+City20 City26 16
+City5 City21 1
+City0 City23 19
+City97 City10 15
+City77 City52 4
+City67 City42 20
+City97 City28 15
+City7 City23 6
+City89 City99 3
+City73 City6 3
+City7 City39 9
+City91 City92 9
+City38 City90 9
+City20 City98 15
+City68 City11 1
+City68 City50 14
+City27 City91 15
+City66 City57 5
+City32 City22 19
+City20 City3 11
+City26 City6 9
+City96 City88 11
+City64 City67 14
+City20 City91 3
+City5 City22 10
+City82 City25 14
+City10 City77 15
+City76 City38 19
+City80 City22 16
+City10 City88 10
+City96 City90 20
+City5 City22 18
+City41 City98 6
+City36 City53 19
+City45 City2 2
+City70 City65 3
+City25 City15 4
+City55 City81 19
+City99 City7 14
+City99 City30 8
+City50 City10 4
+City50 City95 1
+City51 City13 4
+City47 City68 5
+City96 City30 9
+City78 City86 12
+City62 City39 14
+City87 City95 17
+City99 City14 14
+City41 City4 12
+City92 City68 16
+City79 City50 4
+City3 City35 3
+City20 City1 17
+City82 City7 1
+City31 City78 4
+City29 City62 12
+City6 City32 4
+City18 City11 7
+City39 City76 6
+City27 City43 15
+City62 City61 14
+City9 City78 1
+City14 City98 2
+City96 City45 4
+City43 City61 11
+City79 City48 14
+City37 City9 15
+City32 City53 1
+City35 City45 12
+City14 City36 6
+City71 City44 13
+City57 City1 9
+City59 City65 14
+City66 City17 14
+City35 City22 10
+City68 City31 8
+City42 City57 16
+City65 City44 12
+City30 City20 6
+City84 City1 7
+City61 City90 4
+City95 City31 17
+City22 City90 12
+City85 City45 17
+City70 City56 16
+City22 City44 1
+City48 City37 15
+City77 City13 2
+City27 City46 9
+City22 City92 16
+City44 City15 14
+City27 City22 19
+City40 City36 11
+City2 City42 4
+City29 City62 3
+City23 City98 15
+City77 City5 7
+City14 City79 14
+City99 City61 15
+City57 City42 14
+City9 City2 3
+City70 City42 3
+City77 City13 12
+City62 City64 13
+City37 City59 8
+City85 City55 8
+City4 City93 6
+City9 City59 6
+City70 City4 20
+City44 City12 19
+City61 City24 6
+City89 City57 7
+City47 City74 14
+City3 City95 12
+City91 City20 6
+City99 City38 9
+City29 City0 4
+City10 City29 3
+City31 City96 3
+City71 City52 20
+City64 City63 13
+City30 City98 18
+City44 City28 3
+City28 City57 2
+City47 City26 16
+City88 City4 17
+City50 City87 18
+City60 City66 9
+City78 City42 3
+City19 City58 14
+City44 City43 5
+City22 City61 1
+City46 City33 17
+City20 City6 2
+City94 City87 7
+City96 City73 3
+City39 City11 13
+City1 City53 16
+City73 City52 4
+City56 City98 12
+City70 City76 1
+City46 City50 16
+City1 City67 19
+City40 City15 1
+City84 City15 19
+City85 City16 15
+City69 City42 9
+City29 City60 7
+City18 City84 11
+City45 City74 10
+City53 City46 8
+City17 City1 3
+City7 City20 10
+City8 City27 18
+City9 City44 16
+City46 City25 16
+City22 City16 18
+City59 City43 1
+City10 City19 15
+City80 City25 5
+City83 City60 20
+City86 City62 4
+City29 City65 6
+City24 City60 4
+City74 City89 13
+City12 City9 14
+City39 City96 10
+City22 City50 17
+City82 City19 18
+City87 City98 19
+City98 City23 4
+City86 City34 14
+City73 City62 8
+City13 City92 7
+City51 City57 2
+City11 City92 6
+City1 City90 19
+City77 City49 10
+City44 City55 5
+City89 City0 8
+City19 City30 13
+City58 City17 6
+City50 City90 4
+City45 City73 16
+City79 City92 17
+City44 City54 16
+City51 City59 11
+City30 City31 7
+City92 City22 4
+City51 City19 12
+City82 City47 10
+City82 City19 19
+City40 City38 5
+City24 City8 2
+City50 City84 20
+City98 City10 6
+City74 City34 4
+City45 City93 1
+City68 City2 17
+City42 City31 6
+City12 City98 15
+City6 City39 1
+City67 City37 13
+City14 City85 12
+City0 City29 7
+City19 City49 14
+City24 City83 5
+City0 City23 3
+City94 City11 14
+City53 City81 10
+City71 City54 11
+City65 City81 4
+City20 City59 11
+City93 City41 6
+City62 City54 14
+City28 City84 17
+City22 City63 16
+City37 City73 5
+City39 City61 20
+City95 City47 2
+City34 City12 20
+City92 City55 10
+City21 City74 7
+City43 City19 19
+City2 City42 14
+City65 City47 9
+City6 City68 19
+City37 City57 19
+City32 City77 18
+City89 City34 2
+City92 City55 2
+City30 City75 20
+City46 City98 16
+City1 City96 13
+City32 City6 16
+City78 City73 20
+City86 City66 18
+City80 City60 19
+City70 City89 3
+City7 City66 15
+City97 City11 18
+City56 City40 16
+City48 City67 14
+City16 City6 18
+City57 City6 6
+City32 City10 7
+City8 City66 1
+City51 City42 1
+City96 City21 10
+City79 City0 18
+City52 City12 5
+City48 City5 20
+City19 City31 1
+City1 City86 10
+City78 City91 9
+City28 City72 2
+City23 City95 12
+City96 City61 20
+City0 City16 10
+City62 City14 20
+City9 City78 17
+City73 City89 3
+City26 City55 5
+City84 City59 20
+City25 City94 7
+City28 City74 14
+City83 City69 16
+City64 City48 13
+City16 City86 6
+City66 City32 9
+City13 City55 15
+City26 City90 6
+City33 City28 18
+City14 City72 15
+City30 City6 15
+City85 City75 10
+City94 City37 7
+City94 City78 9
+City49 City73 3
+City47 City77 13
+City4 City62 18
+City98 City4 5
+City62 City51 1
+City72 City0 2
+City88 City95 20
+City37 City81 7
+City64 City30 2
+City55 City92 15
+City75 City37 19
+City9 City88 13
+City34 City72 1
+City69 City67 5
+City40 City10 9
+City52 City65 14
+City55 City97 13
+City7 City14 2
+City52 City96 14
+City53 City14 5
+City64 City21 12
+City84 City33 2
+City28 City27 18
+City65 City41 8
+City6 City46 14
+City22 City62 10
+City87 City90 16
+City25 City20 16
+City97 City83 13
+City83 City59 20
+City32 City51 7
+City47 City61 11
+City77 City3 16
+City91 City31 11
+City55 City4 16
+City80 City95 10
+City45 City13 10
+City52 City82 17
+City92 City56 7
+City68 City97 10
+City96 City29 20
+City37 City42 8
+City56 City24 18
+City98 City2 12
+City17 City88 5
+City3 City34 5
+City85 City61 3
+City35 City6 5
+City40 City74 7
+City81 City27 6
+City24 City41 20
+City49 City64 8
+City88 City47 13
+City41 City45 4
+City61 City69 15
+City87 City74 10
+City41 City92 3
+City11 City94 3
+City59 City38 7
+City63 City11 13
+City31 City68 20
+City93 City44 5
+City20 City61 17
+City31 City54 1
+City1 City80 16
+City27 City79 3
+City4 City51 4
+City9 City16 18
+City13 City80 5
+City6 City29 10
+City19 City1 10
+City96 City37 17
+City94 City52 18
+City34 City62 6
+City52 City78 1
+City89 City93 5
+City56 City82 12
+City58 City56 4
+City44 City5 1
+City74 City0 6
+City71 City26 14
+City75 City99 17
+City88 City30 13
+City85 City11 16
+City36 City16 13
+City87 City80 9
+City91 City18 14
+City56 City36 18
+City67 City59 4
+City64 City98 16
+City49 City12 14
+City50 City98 8
+City2 City72 17
+City62 City90 16
+City38 City2 12
+City94 City79 2
+City72 City57 1
+City93 City9 2
+City54 City72 1
+City39 City7 8
+City6 City0 17
+City40 City13 4
+City11 City50 1
+City97 City30 20
+City73 City0 2
+City71 City94 8
+City25 City84 5
+City57 City40 15
+City4 City3 17
+City66 City33 15
+City4 City14 10
+City35 City15 18
+City44 City98 7
+City58 City64 7
+City68 City81 11
+City62 City9 1
+City24 City44 20
+City88 City32 6
+City81 City30 4
+City74 City68 20
+City90 City11 6
+City73 City97 12
+City56 City79 4
+City10 City12 14
+City7 City31 15
+City59 City62 6
+City60 City74 4
+City81 City18 13
+City94 City37 3
+City82 City2 14
+City29 City50 16
+City17 City4 11
+City3 City72 6
+City92 City78 8
+City63 City49 12
+City21 City38 20
+City80 City30 1
+City48 City35 16
+City30 City93 11
+City20 City2 2
+City62 City10 14
+City68 City52 4
+City34 City77 10
+City86 City96 12
+City40 City60 19
+City83 City89 11
+City44 City55 19
+City49 City21 14
+City72 City32 12
+City31 City55 1
+City44 City74 1
+City45 City79 11
+City89 City3 1
+City45 City7 19
+City4 City91 11
+City13 City33 11
+City38 City67 17
+City24 City12 17
+City35 City95 8
+City13 City2 10
+City17 City89 6
+City51 City56 5
+City30 City88 12
+City13 City86 14
+City11 City58 11
+City9 City88 3
+City71 City11 19
+City19 City90 8
+City73 City88 2
+City18 City32 19
+City69 City31 14
+City51 City80 8
+City93 City27 12
+City26 City9 7
+City53 City95 7
+City83 City96 6
+City39 City19 4
+City85 City50 6
+City21 City40 12
+City40 City58 6
+City23 City18 12
+City6 City5 19
+City47 City27 9
+City59 City61 8
+City50 City12 4
+City11 City24 7
+City55 City64 9
+City12 City9 18
+City23 City15 7
+City59 City49 14
+City98 City80 19
+City13 City79 19
+City56 City69 1
+City97 City1 7
+City65 City48 1
+City75 City76 12
+City32 City73 16
+City98 City60 6
+City75 City39 11
+City8 City97 11
+City64 City45 12
+City69 City31 20
+City27 City55 5
+City94 City39 7
+City0 City69 14
+City3 City59 10
+City13 City57 2
+City55 City18 5
+City62 City30 17
+City90 City66 13
+City67 City19 14
+City42 City99 20
+City50 City56 8
+City25 City70 19
