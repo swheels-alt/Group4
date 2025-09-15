@@ -38,10 +38,13 @@ class TrafficGraph(Graph):
         if start not in self.nodes or end not in self.nodes:
             return [], float('inf')
         
+        """Create priority queue for vertices being preprocessed."""
         pq = [(0, start, [start])]
         visited = set()
+        """Create list of distances initialized as 0."""
         distances = {start: 0}
-        
+
+        """Loop while priority queue is not yet empty."""
         while pq:
             current_cost, current_city, path = heapq.heappop(pq)
             
@@ -62,8 +65,10 @@ class TrafficGraph(Graph):
                     continue
                 
                 new_cost = current_cost + effective_weight
-                
+
+                """If a shorter path exists..."""
                 if neighbor not in distances or new_cost < distances[neighbor]:
+                    """Update the distance."""
                     distances[neighbor] = new_cost
                     new_path = path + [neighbor]
                     heapq.heappush(pq, (new_cost, neighbor, new_path))
